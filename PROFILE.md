@@ -16,4 +16,4 @@ Programming Fundamentals fall 2024
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
 
-!(https://myoctocat.com/assets/images/base-octocat.svg)
+!https://myoctocat.com/assets/images/base-octocat.svg
