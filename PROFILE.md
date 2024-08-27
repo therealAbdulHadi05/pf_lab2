@@ -7,8 +7,8 @@ Programming Fundamentals fall 2024
 ~~Strikethrough~~
 ***Bold and Italic***
 **Bold and _Italic_**
-This is <sub>subscript</sub>
-This is <sup>superscript</sup>
+<sub>subscript</sub>
+<sup>superscript</sup>
 
 # Introduction to GitHub
 **This text is bold**\
